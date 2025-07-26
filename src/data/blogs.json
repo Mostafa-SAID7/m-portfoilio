@@ -1,0 +1,27 @@
+{
+  "title": "Latest Blogs",
+  "subtitle": "Check out my latest posts and articles",
+  "blogs": [
+    {
+      "title": "Mastering Next.js 14",
+      "date": "March 10, 2025",
+      "excerpt": "Learn the new features of Next.js 14, including App Router and Server Components...",
+      "image": "/images/blogs/nextjs14.jpg",
+      "link": "#"
+    },
+    {
+      "title": "TailwindCSS Best Practices",
+      "date": "March 5, 2025",
+      "excerpt": "Discover the best way to structure and optimize TailwindCSS for scalable projects...",
+      "image": "/images/blogs/tailwind.jpg",
+      "link": "#"
+    },
+    {
+      "title": "React Performance Tips",
+      "date": "Feb 28, 2025",
+      "excerpt": "Enhance your React app performance using memoization, Suspense, and more...",
+      "image": "/images/blogs/react.jpg",
+      "link": "#"
+    }
+  ]
+}

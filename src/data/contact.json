@@ -1,0 +1,30 @@
+{
+  "title": "Contact Me",
+  "description": "Have a project or question? Send me a message!",
+  "info": [
+    {
+      "type": "Email",
+      "icon": "https://cdn.lordicon.com/ckatldkn.json",
+      "value": "me@example.com"
+    },
+    {
+      "type": "Phone",
+      "icon": "https://cdn.lordicon.com/tftaqjwp.json",
+      "value": "+123 456 789"
+    },
+    {
+      "type": "Location",
+      "icon": "https://cdn.lordicon.com/zzcjjxew.json",
+      "value": "Cairo, Egypt"
+    }
+  ],
+  "form": {
+    "placeholders": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message"
+    },
+    "button": "Send Message"
+  }
+}

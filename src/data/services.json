@@ -1,0 +1,21 @@
+{
+  "title": "Our Services",
+  "subtitle": "We provide top-notch solutions to scale your business.",
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "Build responsive and scalable web applications.",
+      "icon": "https://cdn.lordicon.com/nocovwne.json"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Create user-friendly and modern interfaces.",
+      "icon": "https://cdn.lordicon.com/dxoycpzg.json"
+    },
+    {
+      "title": "SEO Optimization",
+      "description": "Optimize your site for better search rankings.",
+      "icon": "https://cdn.lordicon.com/mecwbjnp.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "My Projects",
+  "subtitle": "A showcase of my recent works",
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website built with Next.js and TailwindCSS.",
+      "image": "/images/projects/portfolio.jpg",
+      "link": "https://yourportfolio.com"
+    },
+    {
+      "title": "E-commerce App",
+      "description": "An e-commerce platform with modern UI and real-time payments.",
+      "image": "/images/projects/ecommerce.jpg",
+      "link": "https://yourecommerce.com"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A full-stack blog system with markdown support and SEO.",
+      "image": "/images/projects/blog.jpg",
+      "link": "https://yourblog.com"
+    }
+  ]
+}

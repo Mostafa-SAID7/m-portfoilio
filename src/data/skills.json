@@ -1,0 +1,26 @@
+{
+  "title": "My Skills",
+  "subtitle": "Technologies & Tools I work with",
+  "skills": [
+    {
+      "name": "React",
+      "icon": "/images/skills/react.png"
+    },
+    {
+      "name": "Next.js",
+      "icon": "/images/skills/nextjs.png"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "/images/skills/typescript.png"
+    },
+    {
+      "name": "TailwindCSS",
+      "icon": "/images/skills/tailwind.png"
+    },
+    {
+      "name": "Node.js",
+      "icon": "/images/skills/node.png"
+    }
+  ]
+}

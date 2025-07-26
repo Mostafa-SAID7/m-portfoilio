@@ -1,0 +1,10 @@
+{
+  "title": "Hi, I'm Mostafa Samir",
+  "subtitle": "Full-Stack Developer | React & Next.js Expert",
+  "description": "I build scalable, modern web applications with great UI/UX experience.",
+  "buttons": [
+    { "text": "View Projects", "link": "#projects", "style": "primary" },
+    { "text": "Contact Me", "link": "#contact", "style": "secondary" }
+  ],
+  "animation": "@/public/animations/hero.json"
+}

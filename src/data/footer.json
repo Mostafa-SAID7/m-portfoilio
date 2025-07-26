@@ -1,0 +1,29 @@
+{
+  "links": [
+    { "label": "Home", "href": "/" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Blogs", "href": "/blogs" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "socials": [
+    {
+      "name": "Facebook",
+      "href": "https://facebook.com",
+      "icon": "https://cdn.lordicon.com/fihkmkwt.json",
+      "color": "#1877F2"
+    },
+    {
+      "name": "Twitter",
+      "href": "https://twitter.com",
+      "icon": "https://cdn.lordicon.com/gzmgulpl.json",
+      "color": "#1DA1F2"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://linkedin.com",
+      "icon": "https://cdn.lordicon.com/slkvcfos.json",
+      "color": "#0A66C2"
+    }
+  ]
+}
